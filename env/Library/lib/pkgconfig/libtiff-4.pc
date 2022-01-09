@@ -1,0 +1,11 @@
+prefix=c:/Users/PC/Documents/Coding/Machine-Learning/machine-learning-project0/env/Library
+exec_prefix=c:/Users/PC/Documents/Coding/Machine-Learning/machine-learning-project0/env/Library
+libdir=c:/Users/PC/Documents/Coding/Machine-Learning/machine-learning-project0/env/Library/lib
+includedir=c:/Users/PC/Documents/Coding/Machine-Learning/machine-learning-project0/env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -Lc:/Users/PC/Documents/Coding/Machine-Learning/machine-learning-project0/env/Library/lib -ltiff
+Libs.private: 
+Cflags: -Ic:/Users/PC/Documents/Coding/Machine-Learning/machine-learning-project0/env/Library/include

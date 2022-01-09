@@ -1,0 +1,62 @@
+{
+  "build": "h59b6b97_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\MiniConda\\pkgs\\tbb-2021.4.0-h59b6b97_0",
+  "features": "",
+  "files": [
+    "Library/bin/tbb12.dll",
+    "Library/bin/tbbmalloc.dll",
+    "Library/bin/tbbmalloc_proxy.dll"
+  ],
+  "fn": "tbb-2021.4.0-h59b6b97_0.conda",
+  "legacy_bz2_md5": "ca525a65377f2fe6baa6501ac32acbb5",
+  "legacy_bz2_size": 166044,
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\MiniConda\\pkgs\\tbb-2021.4.0-h59b6b97_0",
+    "type": 1
+  },
+  "md5": "f77b6086d445cbd4edb37e0d9ab44619",
+  "name": "tbb",
+  "package_tarball_full_path": "C:\\MiniConda\\pkgs\\tbb-2021.4.0-h59b6b97_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/tbb12.dll",
+        "path_type": "hardlink",
+        "sha256": "a8ad11bb9c114ac4f82a4caa29022f0154f698423714f9849b81a4ed536fecb8",
+        "sha256_in_prefix": "a8ad11bb9c114ac4f82a4caa29022f0154f698423714f9849b81a4ed536fecb8",
+        "size_in_bytes": 199168
+      },
+      {
+        "_path": "Library/bin/tbbmalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "2c1d76774fbbc3d5f9bdcebf50f346e1a38f4cdc741ad8930c9f270e6b541465",
+        "sha256_in_prefix": "2c1d76774fbbc3d5f9bdcebf50f346e1a38f4cdc741ad8930c9f270e6b541465",
+        "size_in_bytes": 98304
+      },
+      {
+        "_path": "Library/bin/tbbmalloc_proxy.dll",
+        "path_type": "hardlink",
+        "sha256": "e79844f16bb792a6174941fad3ffa21927b046071e8e532fabd2f1e05141494a",
+        "sha256_in_prefix": "e79844f16bb792a6174941fad3ffa21927b046071e8e532fabd2f1e05141494a",
+        "size_in_bytes": 29696
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "tbb==2021.4.0=h59b6b97_0",
+  "sha256": "986a0e39335f67e14c3778c9c84f0fda1062d328a010dac0e28fce85edd47873",
+  "size": 151893,
+  "subdir": "win-64",
+  "timestamp": 1634717421419,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tbb-2021.4.0-h59b6b97_0.conda",
+  "version": "2021.4.0"
+}
